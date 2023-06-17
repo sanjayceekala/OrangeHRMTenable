@@ -1,0 +1,11 @@
+Launch the application (URL : https://opensource-demo.orangehrmlive.com/)
+Login to the Application (Admin/admin123)
+Click on PIM tab
+Click on Add button in the Employee list tab
+Enter the Employee FirstName and Lastname
+Click on Create Login Details toggle button
+Enter the Login details
+Click on Save button
+Enter Personal Details
+Click on Save button
+Validate the employee created in the Employee list tab

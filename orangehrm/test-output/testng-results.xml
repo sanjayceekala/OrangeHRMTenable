@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Deleted the folder]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is present]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is present]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is present]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is visible]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is present]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is visible]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is visible]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is visible]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is present]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is present]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is not visible]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is present]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is not visible]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is present]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The toggle button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is present]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The toggle button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is present]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is not visible]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is visible]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is not visible]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is visible]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is present]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is present]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is not visible]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is visible]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The value is filled in the element]]>
+    </line>
+    <line>
+      <![CDATA[The desired user is present in the result]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is not visible]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is visible]]>
+    </line>
+    <line>
+      <![CDATA[The desired element is clicked]]>
+    </line>
+    <line>
+      <![CDATA[The desired user is present in the result]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-18T00:46:36 IST" name="Suite" finished-at="2023-06-18T00:48:07 IST" duration-ms="90847">
+    <groups>
+    </groups>
+    <test started-at="2023-06-18T00:46:36 IST" name="Test" finished-at="2023-06-18T00:48:07 IST" duration-ms="90847">
+      <class name="com.orangehrm.sanity.Sanity_001_Create_User">
+        <test-method is-config="true" signature="suiteExecutionSetUp()[pri:0, instance:com.orangehrm.sanity.Sanity_001_Create_User@7103cb56]" started-at="2023-06-18T00:46:36 IST" name="suiteExecutionSetUp" finished-at="2023-06-18T00:46:36 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Deleted the folder]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- suiteExecutionSetUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.sanity.Sanity_001_Create_User@7103cb56]" started-at="2023-06-18T00:46:36 IST" name="setUp" finished-at="2023-06-18T00:46:52 IST" duration-ms="16463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:com.orangehrm.sanity.Sanity_001_Create_User@7103cb56]" started-at="2023-06-18T00:46:52 IST" name="test" finished-at="2023-06-18T00:48:06 IST" duration-ms="74134" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[The desired element is present]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is present]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is visible]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is visible]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is present]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is not visible]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is present]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The toggle button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is present]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is not visible]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is visible]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is present]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is not visible]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is visible]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired user is present in the result]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.sanity.Sanity_001_Create_User@7103cb56]" started-at="2023-06-18T00:48:06 IST" name="tearDown" finished-at="2023-06-18T00:48:07 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangehrm.sanity.Sanity_001_Create_User -->
+      <class name="com.orangehrm.sanity.Sanity_002_Create_User">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.sanity.Sanity_002_Create_User@5f6722d3]" started-at="2023-06-18T00:46:36 IST" name="setUp" finished-at="2023-06-18T00:46:49 IST" duration-ms="13344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:com.orangehrm.sanity.Sanity_002_Create_User@5f6722d3]" started-at="2023-06-18T00:46:49 IST" name="test" finished-at="2023-06-18T00:48:04 IST" duration-ms="75063" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[The desired element is present]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is present]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is visible]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is visible]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is present]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is not visible]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is present]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The toggle button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is present]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is not visible]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is visible]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is present]]>
+            </line>
+            <line>
+              <![CDATA[The value is filled in the element]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is not visible]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is visible]]>
+            </line>
+            <line>
+              <![CDATA[The desired element is clicked]]>
+            </line>
+            <line>
+              <![CDATA[The desired user is present in the result]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.sanity.Sanity_002_Create_User@5f6722d3]" started-at="2023-06-18T00:48:04 IST" name="tearDown" finished-at="2023-06-18T00:48:05 IST" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangehrm.sanity.Sanity_002_Create_User -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
