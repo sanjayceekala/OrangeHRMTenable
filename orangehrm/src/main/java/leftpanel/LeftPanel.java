@@ -23,9 +23,9 @@ public class LeftPanel {
 	public LeftPanel(CommonPage test) {
 		this.test = test;
 		
-		WaitUtil.waitForElementPresent(test, LOC_WL_SIDEPANEL, 30, "Side Panel loaded successfully");
+		WaitUtil.waitForElementPresent(test, LOC_WL_SIDEPANEL, 30, "Side Panel");
 		if(!CheckUtil.isElementPresent(test, LOC_WL_SIDEPANEL))
-			ReportUtil.fail(test, "Side Panel not loaded successfully");
+			ReportUtil.fail(test, "Side Panel");
 	}
 	
 	/**
@@ -68,11 +68,11 @@ public class LeftPanel {
 	 */
 	
 	public void clickSidePanelTab(SidePanelTabs tab) {
-		WaitUtil.waitForElementVisible(test, LOC_WL_SIDEPANEL_TABS, 10, "The side panel tabs are not present");
-		List<WebElement> sideTabs = CheckUtil.findWebElements(test, LOC_WL_SIDEPANEL_TABS, "The side panel tabs are not present");
+		WaitUtil.waitForElementVisible(test, LOC_WL_SIDEPANEL_TABS, 10, "The side panel tabs");
+		List<WebElement> sideTabs = CheckUtil.findWebElements(test, LOC_WL_SIDEPANEL_TABS, "The side panel tabs");
 		for(WebElement sTab : sideTabs) {
 			if(sTab.getText().trim().equalsIgnoreCase(tab.toString())) {
-				ClickUtil.clickButtonOrFail(test, sTab, "Unable to click on the tab");
+				ClickUtil.clickButtonOrFail(test, sTab, sTab.getText().trim());
 				break;
 			}
 		}
@@ -85,12 +85,12 @@ public class LeftPanel {
 	 */
 	
 	public void clickSubTabs(SubTabs subTab) {
-		WaitUtil.waitForElementVisible(test, LOC_WL_SUBTABS, 5, "Sub tabs not present");
+		WaitUtil.waitForElementVisible(test, LOC_WL_SUBTABS, 5, "Sub tabs");
 		
-		List<WebElement> subTabs = CheckUtil.findWebElements(test, LOC_WL_SUBTABS, "Sub tabs not present");
+		List<WebElement> subTabs = CheckUtil.findWebElements(test, LOC_WL_SUBTABS, "Sub tabs");
 		for(WebElement tab : subTabs) {
 			if(tab.getText().trim().equalsIgnoreCase(subTab.getName())) {
-				ClickUtil.clickButtonOrFail(test, tab, "Unable to click on the tab");
+				ClickUtil.clickButtonOrFail(test, tab, tab.getText().trim());
 				break;
 			}
 		}

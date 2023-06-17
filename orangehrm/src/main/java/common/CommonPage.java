@@ -121,7 +121,7 @@ public class CommonPage extends SeleniumTest {
 
 	public void waitForPageLoading(int timeOut) {
 		WaitUtil.waitForElementNotVisible(this, LOC_WL_PAGE_LOAD_SPINNER, timeOut,
-				"The spinner is still present after the duration");
+				"The spinner");
 
 	}
 

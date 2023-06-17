@@ -5,461 +5,401 @@
       <![CDATA[Deleted the folder]]>
     </line>
     <line>
-      <![CDATA[The desired element is present]]>
+      <![CDATA[Login Page is present]]>
     </line>
     <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[Login Page is present]]>
     </line>
     <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[The value is filled in the textbox :Username]]>
     </line>
     <line>
-      <![CDATA[The desired element is present]]>
+      <![CDATA[The value is filled in the textbox :Username]]>
     </line>
     <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[The value is filled in the textbox :Password]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[The value is filled in the textbox :Password]]>
     </line>
     <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[Login Button is clicked]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[Login Button is clicked]]>
     </line>
     <line>
-      <![CDATA[The desired element is present]]>
+      <![CDATA[Side Panel is present]]>
     </line>
     <line>
-      <![CDATA[The desired element is visible]]>
+      <![CDATA[Side Panel is present]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[The side panel tabs is visible]]>
     </line>
     <line>
-      <![CDATA[The desired element is present]]>
+      <![CDATA[The side panel tabs is visible]]>
     </line>
     <line>
-      <![CDATA[The desired element is visible]]>
+      <![CDATA[PIM is clicked]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[PIM is clicked]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[Sub tabs is visible]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[Sub tabs is visible]]>
     </line>
     <line>
-      <![CDATA[The desired element is visible]]>
+      <![CDATA[Employee List is clicked]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[The employee list tab is present]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[Employee List is clicked]]>
     </line>
     <line>
-      <![CDATA[The desired element is visible]]>
+      <![CDATA[The employee list tab is present]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[Add button is clicked]]>
     </line>
     <line>
-      <![CDATA[The desired element is present]]>
+      <![CDATA[The spinner is invisible]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[The Add employee tab is present]]>
     </line>
     <line>
-      <![CDATA[The desired element is present]]>
+      <![CDATA[Add button is clicked]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[The spinner is invisible]]>
     </line>
     <line>
-      <![CDATA[The desired element is not visible]]>
+      <![CDATA[The Add employee tab is present]]>
     </line>
     <line>
-      <![CDATA[The desired element is present]]>
+      <![CDATA[The value is filled in the textbox :Firstname]]>
     </line>
     <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[The value is filled in the textbox :Lastname]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[The value is filled in the textbox :Firstname]]>
     </line>
     <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[The value is filled in the textbox :Lastname]]>
     </line>
     <line>
-      <![CDATA[The desired element is not visible]]>
+      <![CDATA[Enter login details Toggle button is clicked]]>
     </line>
     <line>
-      <![CDATA[The desired element is present]]>
+      <![CDATA[Username is present]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[Enter login details Toggle button is clicked]]>
     </line>
     <line>
-      <![CDATA[The toggle button is clicked]]>
+      <![CDATA[Username is present]]>
     </line>
     <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[The value is filled in the textbox :Username]]>
     </line>
     <line>
-      <![CDATA[The desired element is present]]>
+      <![CDATA[The value is filled in the textbox :Password]]>
     </line>
     <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[The value is filled in the textbox :Username]]>
     </line>
     <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[The value is filled in the textbox :Confirm password]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[The value is filled in the textbox :Password]]>
     </line>
     <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[Save button is clicked]]>
     </line>
     <line>
-      <![CDATA[The toggle button is clicked]]>
+      <![CDATA[The spinner is invisible]]>
     </line>
     <line>
-      <![CDATA[The desired element is present]]>
+      <![CDATA[The value is filled in the textbox :Confirm password]]>
     </line>
     <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[The side panel tabs is visible]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[Save button is clicked]]>
     </line>
     <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[The spinner is invisible]]>
     </line>
     <line>
-      <![CDATA[The desired element is not visible]]>
+      <![CDATA[The side panel tabs is visible]]>
     </line>
     <line>
-      <![CDATA[The desired element is visible]]>
+      <![CDATA[Admin is clicked]]>
     </line>
     <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[Admin is clicked]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[User Management is present]]>
     </line>
     <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[User Management is present]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[The value is filled in the textbox :Username]]>
     </line>
     <line>
-      <![CDATA[The desired element is not visible]]>
+      <![CDATA[Search button is clicked]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[The value is filled in the textbox :Username]]>
     </line>
     <line>
-      <![CDATA[The desired element is visible]]>
+      <![CDATA[The spinner is invisible]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[User search results is visible]]>
     </line>
     <line>
-      <![CDATA[The desired element is present]]>
-    </line>
-    <line>
-      <![CDATA[The desired element is clicked]]>
-    </line>
-    <line>
-      <![CDATA[The value is filled in the element]]>
-    </line>
-    <line>
-      <![CDATA[The desired element is clicked]]>
-    </line>
-    <line>
-      <![CDATA[The desired element is present]]>
-    </line>
-    <line>
-      <![CDATA[The desired element is not visible]]>
-    </line>
-    <line>
-      <![CDATA[The desired element is visible]]>
-    </line>
-    <line>
-      <![CDATA[The desired element is clicked]]>
-    </line>
-    <line>
-      <![CDATA[The value is filled in the element]]>
+      <![CDATA[Search button is clicked]]>
     </line>
     <line>
       <![CDATA[The desired user is present in the result]]>
     </line>
     <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[The spinner is invisible]]>
     </line>
     <line>
-      <![CDATA[The desired element is not visible]]>
-    </line>
-    <line>
-      <![CDATA[The desired element is visible]]>
-    </line>
-    <line>
-      <![CDATA[The desired element is clicked]]>
+      <![CDATA[User search results is visible]]>
     </line>
     <line>
       <![CDATA[The desired user is present in the result]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-06-18T00:46:36 IST" name="Suite" finished-at="2023-06-18T00:48:07 IST" duration-ms="90847">
+  <suite started-at="2023-06-18T01:56:49 IST" name="Suite" finished-at="2023-06-18T01:58:20 IST" duration-ms="90545">
     <groups>
     </groups>
-    <test started-at="2023-06-18T00:46:36 IST" name="Test" finished-at="2023-06-18T00:48:07 IST" duration-ms="90847">
+    <test started-at="2023-06-18T01:56:49 IST" name="Test" finished-at="2023-06-18T01:58:20 IST" duration-ms="90545">
       <class name="com.orangehrm.sanity.Sanity_001_Create_User">
-        <test-method is-config="true" signature="suiteExecutionSetUp()[pri:0, instance:com.orangehrm.sanity.Sanity_001_Create_User@7103cb56]" started-at="2023-06-18T00:46:36 IST" name="suiteExecutionSetUp" finished-at="2023-06-18T00:46:36 IST" duration-ms="46" status="PASS">
+        <test-method is-config="true" signature="suiteExecutionSetUp()[pri:0, instance:com.orangehrm.sanity.Sanity_001_Create_User@7103cb56]" started-at="2023-06-18T01:56:49 IST" name="suiteExecutionSetUp" finished-at="2023-06-18T01:56:49 IST" duration-ms="50" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Deleted the folder]]>
             </line>
           </reporter-output>
         </test-method> <!-- suiteExecutionSetUp -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.sanity.Sanity_001_Create_User@7103cb56]" started-at="2023-06-18T00:46:36 IST" name="setUp" finished-at="2023-06-18T00:46:52 IST" duration-ms="16463" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.sanity.Sanity_001_Create_User@7103cb56]" started-at="2023-06-18T01:56:49 IST" name="setUp" finished-at="2023-06-18T01:57:04 IST" duration-ms="14697" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test()[pri:0, instance:com.orangehrm.sanity.Sanity_001_Create_User@7103cb56]" started-at="2023-06-18T00:46:52 IST" name="test" finished-at="2023-06-18T00:48:06 IST" duration-ms="74134" status="PASS">
+        <test-method signature="test()[pri:0, instance:com.orangehrm.sanity.Sanity_001_Create_User@7103cb56]" started-at="2023-06-18T01:57:04 IST" name="test" finished-at="2023-06-18T01:58:19 IST" duration-ms="75623" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[The desired element is present]]>
+              <![CDATA[Login Page is present]]>
             </line>
             <line>
-              <![CDATA[The value is filled in the element]]>
+              <![CDATA[The value is filled in the textbox :Username]]>
             </line>
             <line>
-              <![CDATA[The value is filled in the element]]>
+              <![CDATA[The value is filled in the textbox :Password]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[Login Button is clicked]]>
             </line>
             <line>
-              <![CDATA[The desired element is present]]>
+              <![CDATA[Side Panel is present]]>
             </line>
             <line>
-              <![CDATA[The desired element is visible]]>
+              <![CDATA[The side panel tabs is visible]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[PIM is clicked]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[Sub tabs is visible]]>
             </line>
             <line>
-              <![CDATA[The desired element is visible]]>
+              <![CDATA[Employee List is clicked]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[The employee list tab is present]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[Add button is clicked]]>
             </line>
             <line>
-              <![CDATA[The desired element is present]]>
+              <![CDATA[The spinner is invisible]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[The Add employee tab is present]]>
             </line>
             <line>
-              <![CDATA[The desired element is not visible]]>
+              <![CDATA[The value is filled in the textbox :Firstname]]>
             </line>
             <line>
-              <![CDATA[The desired element is present]]>
+              <![CDATA[The value is filled in the textbox :Lastname]]>
             </line>
             <line>
-              <![CDATA[The value is filled in the element]]>
+              <![CDATA[Enter login details Toggle button is clicked]]>
             </line>
             <line>
-              <![CDATA[The value is filled in the element]]>
+              <![CDATA[Username is present]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[The value is filled in the textbox :Username]]>
             </line>
             <line>
-              <![CDATA[The toggle button is clicked]]>
+              <![CDATA[The value is filled in the textbox :Password]]>
             </line>
             <line>
-              <![CDATA[The desired element is present]]>
+              <![CDATA[The value is filled in the textbox :Confirm password]]>
             </line>
             <line>
-              <![CDATA[The value is filled in the element]]>
+              <![CDATA[Save button is clicked]]>
             </line>
             <line>
-              <![CDATA[The value is filled in the element]]>
+              <![CDATA[The spinner is invisible]]>
             </line>
             <line>
-              <![CDATA[The value is filled in the element]]>
+              <![CDATA[The side panel tabs is visible]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[Admin is clicked]]>
             </line>
             <line>
-              <![CDATA[The desired element is not visible]]>
+              <![CDATA[User Management is present]]>
             </line>
             <line>
-              <![CDATA[The desired element is visible]]>
+              <![CDATA[The value is filled in the textbox :Username]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[Search button is clicked]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[The spinner is invisible]]>
             </line>
             <line>
-              <![CDATA[The desired element is present]]>
-            </line>
-            <line>
-              <![CDATA[The value is filled in the element]]>
-            </line>
-            <line>
-              <![CDATA[The desired element is clicked]]>
-            </line>
-            <line>
-              <![CDATA[The desired element is not visible]]>
-            </line>
-            <line>
-              <![CDATA[The desired element is visible]]>
-            </line>
-            <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[User search results is visible]]>
             </line>
             <line>
               <![CDATA[The desired user is present in the result]]>
             </line>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.sanity.Sanity_001_Create_User@7103cb56]" started-at="2023-06-18T00:48:06 IST" name="tearDown" finished-at="2023-06-18T00:48:07 IST" duration-ms="217" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.sanity.Sanity_001_Create_User@7103cb56]" started-at="2023-06-18T01:58:19 IST" name="tearDown" finished-at="2023-06-18T01:58:20 IST" duration-ms="195" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.orangehrm.sanity.Sanity_001_Create_User -->
       <class name="com.orangehrm.sanity.Sanity_002_Create_User">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.sanity.Sanity_002_Create_User@5f6722d3]" started-at="2023-06-18T00:46:36 IST" name="setUp" finished-at="2023-06-18T00:46:49 IST" duration-ms="13344" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.sanity.Sanity_002_Create_User@5f6722d3]" started-at="2023-06-18T01:56:49 IST" name="setUp" finished-at="2023-06-18T01:57:04 IST" duration-ms="14680" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test()[pri:0, instance:com.orangehrm.sanity.Sanity_002_Create_User@5f6722d3]" started-at="2023-06-18T00:46:49 IST" name="test" finished-at="2023-06-18T00:48:04 IST" duration-ms="75063" status="PASS">
+        <test-method signature="test()[pri:0, instance:com.orangehrm.sanity.Sanity_002_Create_User@5f6722d3]" started-at="2023-06-18T01:57:04 IST" name="test" finished-at="2023-06-18T01:58:18 IST" duration-ms="74301" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[The desired element is present]]>
+              <![CDATA[Login Page is present]]>
             </line>
             <line>
-              <![CDATA[The value is filled in the element]]>
+              <![CDATA[The value is filled in the textbox :Username]]>
             </line>
             <line>
-              <![CDATA[The value is filled in the element]]>
+              <![CDATA[The value is filled in the textbox :Password]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[Login Button is clicked]]>
             </line>
             <line>
-              <![CDATA[The desired element is present]]>
+              <![CDATA[Side Panel is present]]>
             </line>
             <line>
-              <![CDATA[The desired element is visible]]>
+              <![CDATA[The side panel tabs is visible]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[PIM is clicked]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[Sub tabs is visible]]>
             </line>
             <line>
-              <![CDATA[The desired element is visible]]>
+              <![CDATA[Employee List is clicked]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[The employee list tab is present]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[Add button is clicked]]>
             </line>
             <line>
-              <![CDATA[The desired element is present]]>
+              <![CDATA[The spinner is invisible]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[The Add employee tab is present]]>
             </line>
             <line>
-              <![CDATA[The desired element is not visible]]>
+              <![CDATA[The value is filled in the textbox :Firstname]]>
             </line>
             <line>
-              <![CDATA[The desired element is present]]>
+              <![CDATA[The value is filled in the textbox :Lastname]]>
             </line>
             <line>
-              <![CDATA[The value is filled in the element]]>
+              <![CDATA[Enter login details Toggle button is clicked]]>
             </line>
             <line>
-              <![CDATA[The value is filled in the element]]>
+              <![CDATA[Username is present]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[The value is filled in the textbox :Username]]>
             </line>
             <line>
-              <![CDATA[The toggle button is clicked]]>
+              <![CDATA[The value is filled in the textbox :Password]]>
             </line>
             <line>
-              <![CDATA[The desired element is present]]>
+              <![CDATA[The value is filled in the textbox :Confirm password]]>
             </line>
             <line>
-              <![CDATA[The value is filled in the element]]>
+              <![CDATA[Save button is clicked]]>
             </line>
             <line>
-              <![CDATA[The value is filled in the element]]>
+              <![CDATA[The spinner is invisible]]>
             </line>
             <line>
-              <![CDATA[The value is filled in the element]]>
+              <![CDATA[The side panel tabs is visible]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[Admin is clicked]]>
             </line>
             <line>
-              <![CDATA[The desired element is not visible]]>
+              <![CDATA[User Management is present]]>
             </line>
             <line>
-              <![CDATA[The desired element is visible]]>
+              <![CDATA[The value is filled in the textbox :Username]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[Search button is clicked]]>
             </line>
             <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[The spinner is invisible]]>
             </line>
             <line>
-              <![CDATA[The desired element is present]]>
-            </line>
-            <line>
-              <![CDATA[The value is filled in the element]]>
-            </line>
-            <line>
-              <![CDATA[The desired element is clicked]]>
-            </line>
-            <line>
-              <![CDATA[The desired element is not visible]]>
-            </line>
-            <line>
-              <![CDATA[The desired element is visible]]>
-            </line>
-            <line>
-              <![CDATA[The desired element is clicked]]>
+              <![CDATA[User search results is visible]]>
             </line>
             <line>
               <![CDATA[The desired user is present in the result]]>
             </line>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.sanity.Sanity_002_Create_User@5f6722d3]" started-at="2023-06-18T00:48:04 IST" name="tearDown" finished-at="2023-06-18T00:48:05 IST" duration-ms="409" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.sanity.Sanity_002_Create_User@5f6722d3]" started-at="2023-06-18T01:58:18 IST" name="tearDown" finished-at="2023-06-18T01:58:19 IST" duration-ms="380" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

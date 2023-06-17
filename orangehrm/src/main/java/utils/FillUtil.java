@@ -13,10 +13,10 @@ public class FillUtil {
 	 * @param test
 	 * @param loc
 	 * @param value
-	 * @param message - failure message to print in the logs
+	 * @param elemName
 	 */
 
-	public static void fillInputOrFail(SeleniumTest test, By loc, String value, String message) {
+	public static void fillInputOrFail(SeleniumTest test, By loc, String value, String elemName) {
 
 		WebElement elem = test.returnDriver().findElement(loc);
 		
@@ -24,9 +24,9 @@ public class FillUtil {
 		if (elem != null) {
 			elem.clear();
 			elem.sendKeys(value);
-			ReportUtil.reportPassed(test, "The value is filled in the element");
+			ReportUtil.reportPassed(test, "The value is filled in the textbox :" + elemName);
 		} else {
-			ReportUtil.reportFailed(test, message);
+			ReportUtil.reportFailed(test, "The value is not filled in the textbox :" + elemName);
 		}
 
 	}
@@ -36,19 +36,19 @@ public class FillUtil {
 	 * @param test
 	 * @param loc
 	 * @param text
-	 * @param message - failure message to print in the logs
+	 * @param elemName
 	 */
 
-	public static void fillSelectByVisibleText(SeleniumTest test, By loc, String text, String message) {
+	public static void fillSelectByVisibleText(SeleniumTest test, By loc, String text, String elemName) {
 
 		WebElement elem = test.returnDriver().findElement(loc);
 		Select select = new Select(elem);
 		
 		try {
 			select.selectByVisibleText(text);
-			ReportUtil.reportPassed(test, "The dropdown value is selected");
+			ReportUtil.reportPassed(test, "The dropdown value is selected in the field : " + elemName);
 		}catch(Exception e) {
-			ReportUtil.reportFailed(test, message);
+			ReportUtil.reportFailed(test,  "The dropdown value is not selected in the field : " + elemName);
 		}
 		
 	}

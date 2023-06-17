@@ -31,7 +31,7 @@ public class AddEmployee {
 
 		this.test = test;
 
-		WaitUtil.waitForElementPresent(test, LOC_WL_ADD_EMPLOYEE_SECTION, 15, "The Add employee tab is not loaded successfully");
+		WaitUtil.waitForElementPresent(test, LOC_WL_ADD_EMPLOYEE_SECTION, 15, "The Add employee tab");
 		if (!CheckUtil.isElementPresent(test, LOC_WL_ADD_EMPLOYEE_SECTION)) {
 			ReportUtil.fail(test, "The Add employee tab is not loaded successfully");
 		}
@@ -48,11 +48,11 @@ public class AddEmployee {
 
 	public void fillEmployeeFullName(String firstName, String lastName, String... middleName) {
 
-		FillUtil.fillInputOrFail(test, LOC_IN_FIRST_NAME, firstName, "Unable to fill the firstname");
-		FillUtil.fillInputOrFail(test, LOC_IN_LAST_NAME, lastName, "Unable to fill the lastname");
+		FillUtil.fillInputOrFail(test, LOC_IN_FIRST_NAME, firstName, "Firstname");
+		FillUtil.fillInputOrFail(test, LOC_IN_LAST_NAME, lastName, "Lastname");
 
 		if (middleName.length == 1)
-			FillUtil.fillInputOrFail(test, LOC_IN_MIDDLE_NAME, middleName[0], "Unable to fill the middlename");
+			FillUtil.fillInputOrFail(test, LOC_IN_MIDDLE_NAME, middleName[0], "Middlename");
 
 	}
 	
@@ -71,15 +71,14 @@ public class AddEmployee {
 		} else {
 			if (createLoginDetails || isPasswordSectionPresent) {
 				ClickUtil.clickButtonOrFail(test, LOC_BT_CREATE_LOGIN_DETAILS_TOGGLER,
-						"Unable to click on the crean login details toggler");
-				ReportUtil.reportPassed(test, "The toggle button is clicked");
+						"Enter login details Toggle button");
 			} else {
 				ReportUtil.reportPassed(test, "The toggler is already on");
 			}
 
 		}
 		
-		WaitUtil.waitForElementPresent(test, LOC_IN_USERNAME, 2, "Username field is not present");
+		WaitUtil.waitForElementPresent(test, LOC_IN_USERNAME, 2, "Username");
 
 	}
 	
@@ -89,7 +88,7 @@ public class AddEmployee {
 	 */
 	
 	public void fillUsername(String username) {
-		FillUtil.fillInputOrFail(test, LOC_IN_USERNAME, username, "Unable to enter the username field");
+		FillUtil.fillInputOrFail(test, LOC_IN_USERNAME, username, "Username");
 	}
 	
 	/**
@@ -98,8 +97,8 @@ public class AddEmployee {
 	 */
 	
 	public void fillPassword(String password) {
-		FillUtil.fillInputOrFail(test, LOC_IN_PASSWORD, password, "Unable to enter the password");
-		FillUtil.fillInputOrFail(test, LOC_IN_CONFIRM_PASSWORD, password, "Unable to enter the confirm password");
+		FillUtil.fillInputOrFail(test, LOC_IN_PASSWORD, password, "Password");
+		FillUtil.fillInputOrFail(test, LOC_IN_CONFIRM_PASSWORD, password, "Confirm password");
 	}
 	
 	/**
@@ -107,7 +106,7 @@ public class AddEmployee {
 	 */
 	
 	public void clickSaveButton() {
-		ClickUtil.clickButtonOrFail(test, LOC_BT_SAVE_BUTTON, "Unable to click on the save button");
+		ClickUtil.clickButtonOrFail(test, LOC_BT_SAVE_BUTTON, "Save button");
 		test.waitForPageLoading(10);
 	}
 

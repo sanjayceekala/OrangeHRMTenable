@@ -19,7 +19,7 @@ public class EmployeeList {
 
 		this.test = test;
 		
-		WaitUtil.waitForElementPresent(test, LOC_WL_EMPLOYEE_INFO_PANEL, 15,  "The employee list tab is not loaded successfully");
+		WaitUtil.waitForElementPresent(test, LOC_WL_EMPLOYEE_INFO_PANEL, 15,  "The employee list tab");
 		if(!CheckUtil.isElementPresent(test, LOC_WL_EMPLOYEE_INFO_PANEL)) {
 			ReportUtil.fail(test, "The employee list tab is not loaded successfully");
 		}
@@ -31,7 +31,7 @@ public class EmployeeList {
 	 */
 	
 	public void clickAddButton() {
-		ClickUtil.clickButtonOrFail(test, LOC_BT_ADD, "Unable to click on the Add button");
+		ClickUtil.clickButtonOrFail(test, LOC_BT_ADD, "Add button");
 		test.waitForPageLoading(20);
 	}
 	

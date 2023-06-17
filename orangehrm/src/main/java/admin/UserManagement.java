@@ -26,7 +26,7 @@ public class UserManagement {
 	public UserManagement(CommonPage test) {
 		this.test = test;
 		
-		WaitUtil.waitForElementPresent(test, LOC_WL_SYSTEM_USERS_SECTION, 30, "User Management page is not loaded successfully");
+		WaitUtil.waitForElementPresent(test, LOC_WL_SYSTEM_USERS_SECTION, 30, "User Management");
 		if(!CheckUtil.isElementPresent(test, LOC_WL_SYSTEM_USERS_SECTION))
 			ReportUtil.fail(test, "User Management page loaded successfully");
 	}
@@ -37,7 +37,7 @@ public class UserManagement {
 	 */
 	
 	public void fillUsername(String username) {
-		FillUtil.fillInputOrFail(test, LOC_IN_USERNAME, username, "Unable to enter the username");
+		FillUtil.fillInputOrFail(test, LOC_IN_USERNAME, username, "Username");
 	}
 	
 	/**
@@ -46,7 +46,7 @@ public class UserManagement {
 	 */
 	
 	public void selectUserRole(String userRole) {
-		FillUtil.fillInputOrFail(test, LOC_DD_USERROLE, userRole, "Unable to enter the user role");
+		FillUtil.fillInputOrFail(test, LOC_DD_USERROLE, userRole, "User role");
 	}
 	
 	/**
@@ -55,7 +55,7 @@ public class UserManagement {
 	 */
 	
 	public void fillEmployeeName(String employeeName) {
-		FillUtil.fillInputOrFail(test, LOC_IN_EMPLOYEE_NAME, employeeName, "Unable to fill the employee name");
+		FillUtil.fillInputOrFail(test, LOC_IN_EMPLOYEE_NAME, employeeName, "Employee name");
 	}
 	
 	/**
@@ -64,7 +64,7 @@ public class UserManagement {
 	 */
 
 	public void selectStatus(String status) {
-		FillUtil.fillInputOrFail(test, LOC_DD_STATUS, status, "Unable to select the status");
+		FillUtil.fillInputOrFail(test, LOC_DD_STATUS, status, "Status");
 	}
 	
 	/**
@@ -87,7 +87,7 @@ public class UserManagement {
 	 */
 	
 	public void clickSearchButton() {
-		ClickUtil.clickButtonOrFail(test, LOC_BT_SEARCH_BUTTON, "Unable to click on the search button");
+		ClickUtil.clickButtonOrFail(test, LOC_BT_SEARCH_BUTTON, "Search button");
 		test.waitForPageLoading(10);
 	}
 	
@@ -97,8 +97,8 @@ public class UserManagement {
 	 */
 	
 	public void validateUserSearchResults(String userNameOrEmployeeName) {
-		WaitUtil.waitForElementVisible(test, LOC_WL_USER_SEARCH_RESULTS, 10, "User search results are not found");
-		List<WebElement> users = CheckUtil.findWebElements(test, LOC_WL_USER_SEARCH_RESULTS, "User search results are not found");
+		WaitUtil.waitForElementVisible(test, LOC_WL_USER_SEARCH_RESULTS, 10, "User search results");
+		List<WebElement> users = CheckUtil.findWebElements(test, LOC_WL_USER_SEARCH_RESULTS, "User search results");
 		if(users.size() == 0) {
 			ReportUtil.reportFailed(test, "No users are found");
 			return;

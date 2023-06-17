@@ -20,9 +20,9 @@ public class Login {
 	public Login(CommonPage test) {
 		this.test = test;
 
-		WaitUtil.waitForElementPresent(test, LOC_BT_LOGIN, 30, "Login Page is not loaded");
+		WaitUtil.waitForElementPresent(test, LOC_BT_LOGIN, 30, "Login Page");
 		if (!CheckUtil.isElementPresent(test, LOC_BT_LOGIN))
-			ReportUtil.fail(test, "Login Page is not loaded");
+			ReportUtil.fail(test, "Login Page");
 
 	}
 	
@@ -31,7 +31,7 @@ public class Login {
 	 */
 
 	public void enterUserName() {
-		FillUtil.fillInputOrFail(test, LOC_IN_USERNAME, CommonPage.userName, "Unable to enter the username");
+		FillUtil.fillInputOrFail(test, LOC_IN_USERNAME, CommonPage.userName, "Username");
 	}
 	
 	/**
@@ -39,7 +39,7 @@ public class Login {
 	 */
 
 	public void enterPassword() {
-		FillUtil.fillInputOrFail(test, LOC_IN_PASSWORD, CommonPage.password, "Unable to enter the password");
+		FillUtil.fillInputOrFail(test, LOC_IN_PASSWORD, CommonPage.password, "Password");
 	}
 	
 	/**
@@ -47,7 +47,7 @@ public class Login {
 	 */
 
 	public void clickLoginButton() {
-		ClickUtil.clickButtonOrFail(test, LOC_BT_LOGIN, "Unable to click on the Login Button");
+		ClickUtil.clickButtonOrFail(test, LOC_BT_LOGIN, "Login Button");
 	}
 	
 	/**

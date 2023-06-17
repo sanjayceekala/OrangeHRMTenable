@@ -33,7 +33,6 @@ public class CheckUtil {
 
 		try {
 			elem = driver.findElement(loc);
-			ReportUtil.reportPassed(test, "The desired element is clicked");
 			return elem;
 		} catch (Exception e) {
 			ReportUtil.reportFailed(test, message);
@@ -58,7 +57,6 @@ public class CheckUtil {
 		List<WebElement> elems = driver.findElements(loc);
 
 		if (elems.size() != 0) {
-			ReportUtil.reportPassed(test, "The desired element is clicked");
 			return elems;
 		} else {
 			ReportUtil.reportFailed(test, message);
